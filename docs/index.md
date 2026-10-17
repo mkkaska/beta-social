@@ -4,7 +4,7 @@ title: Beta Social
 
 # Beta Social
 
-Beta Social is a desktop tool used by **Beta Hardware** (İskenderun, Türkiye) to manage its own Instagram and TikTok accounts through the official platform APIs.
+Beta Social is a desktop tool used by **Beta Hardware** (Türkiye) to manage its own Instagram and TikTok accounts through the official platform APIs.
 
 It runs locally on the business owner's Windows computer. It reads the account's own profile statistics and video metrics, produces a daily report for the owner, and publishes videos that the owner has reviewed and approved.
 
