@@ -34,7 +34,7 @@ TOKEN_URL = "https://open.tiktokapis.com/v2/oauth/token/"
 API = "https://open.tiktokapis.com/v2"
 PLATFORM = "tiktok"
 
-USER_FIELDS = "open_id,display_name,username,follower_count,following_count,likes_count,video_count"
+USER_FIELDS = "open_id,display_name,follower_count,following_count,likes_count,video_count"
 VIDEO_FIELDS = "id,title,video_description,create_time,duration,share_url,view_count,like_count,comment_count,share_count"
 
 
