@@ -1,0 +1,25 @@
+# Geliyorsa O da Senden Gelsin
+.env
+.tokens.json
+.api
+
+# Yerel veri
+data/
+reports/
+queue/
+*.sqlite
+*.sqlite-journal
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Editör
+.vscode/
+.idea/
