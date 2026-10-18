@@ -1,6 +1,7 @@
 # Geliyorsa O da Senden Gelsin
 .env
 .tokens.json
+.reports/
 
 # Yerel veri
 data/
